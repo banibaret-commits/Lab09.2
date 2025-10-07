@@ -8,7 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
-        Button button = new Button("Pink!");
 
+        Button button = new Button("Blue!");
     }
 }
